@@ -39,6 +39,7 @@ projet_lightgcn/
 ├── notebooks/
 │   └── analysis.ipynb              # Analyse et visualisation
 ├── main.py                         # Script principal
+├── config.py                       # Config du projet
 ├── requirements.txt                # Dépendances Python
 └── README.md                       # Cette documentation
 ```
